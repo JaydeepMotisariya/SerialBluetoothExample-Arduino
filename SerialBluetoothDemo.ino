@@ -1,3 +1,7 @@
+// Created by Jaydeep Motisariya, October 29,2020
+
+// Simple example of Serial Bluetooth control using android app serial bluetooth communication app
+
 #include "BluetoothSerial.h" //Header File for Serial Bluetooth, will be added by default into Arduino
 
 BluetoothSerial ESP_BT; //Object for Bluetooth
